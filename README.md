@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @joanalopes7
+- 👀 I’m interested in learn new things 
+- 🌱 I’m currently learning Python, R, machine learning, powerBI, SQL, mongoDB, Apache Spark ...
+- 💞️ I’m looking to collaborate on data science or data analysis area
+- 📫 How to reach me links in bio
+- ⚡ Fun fact : i'm a nurse working in internal medicine 🏥
