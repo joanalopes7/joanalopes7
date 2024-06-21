@@ -1,3 +1,6 @@
+
+**About me**
+
 - 👋 Hi, I’m @joanalopes7
 - 👀 I’m interested in learn new things 
 - 🌱 I’m currently learning Python, R, machine learning, powerBI, SQL, mongoDB, Apache Spark ...
