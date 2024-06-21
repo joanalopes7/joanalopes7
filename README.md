@@ -1,5 +1,5 @@
 
-**About me**
+**ABOUT ME**
 
 - 👋 Hi, I’m @joanalopes7
 - 👀 I’m interested in learn new things 
